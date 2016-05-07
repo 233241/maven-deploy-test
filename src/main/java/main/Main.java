@@ -21,5 +21,7 @@ public class Main {
 
         ExampleClass ec = new ExampleClass();
         System.out.println(ec.succ(0));
+
+
     }
 }
